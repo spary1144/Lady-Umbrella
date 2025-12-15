@@ -1,2 +1,1 @@
-# Lady-Umbrella
-Action Adventure game made in Unreal Engine C++
+# lady-umbrella_g2_2425

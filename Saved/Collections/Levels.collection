@@ -1,0 +1,13 @@
+FileVersion:2
+Type:Static
+Guid:4A00393B-47F4-8B4C-0848-4CA837B944C9
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Maps/Development/Gyms/L_DevMap.L_DevMap
+/Game/Maps/L_PreCompileShadersMap.L_PreCompileShadersMap
+/Game/Maps/Levels/Chapter01/L_Streets_Persistent.L_Streets_Persistent
+/Game/Maps/Levels/Chapter02/L_Museum_Persistent.L_Museum_Persistent
+/Game/Maps/Levels/Chapter03/L_Persistent_RoofTops.L_Persistent_RoofTops
+/Game/Maps/Levels/Chapter04/L_ConstructionRooftops_PersistentLevel.L_ConstructionRooftops_PersistentLevel
+/Game/Maps/Levels/Chapter05/L_Building_Persistent.L_Building_Persistent
+/Game/Maps/Menus/MainMenu/L_MainMenu.L_MainMenu

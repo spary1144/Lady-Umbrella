@@ -1,0 +1,15 @@
+FileVersion:2
+Type:Static
+Guid:FB297F2F-441A-C960-F3B5-FFB92317B3D3
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Blueprints/LevelElements/PlaceholderMeshes/Primitives/SM_Cone.SM_Cone
+/Game/Blueprints/LevelElements/PlaceholderMeshes/Primitives/SM_ConeQuarter.SM_ConeQuarter
+/Game/Blueprints/LevelElements/PlaceholderMeshes/Primitives/SM_Cube.SM_Cube
+/Game/Blueprints/LevelElements/PlaceholderMeshes/Primitives/SM_Cylinder.SM_Cylinder
+/Game/Blueprints/LevelElements/PlaceholderMeshes/Primitives/SM_QuarterCylinder.SM_QuarterCylinder
+/Game/Blueprints/LevelElements/PlaceholderMeshes/Primitives/SM_QuarterPipe.SM_QuarterPipe
+/Game/Blueprints/LevelElements/PlaceholderMeshes/Primitives/SM_Ramp.SM_Ramp
+/Game/Blueprints/LevelElements/PlaceholderMeshes/Primitives/SM_Sphere.SM_Sphere
+/Game/Blueprints/LevelElements/PlaceholderMeshes/Primitives/SM_SphereOctant.SM_SphereOctant
+/Game/Blueprints/LevelElements/PlaceholderMeshes/Primitives/SM_SphereOctantInvert.SM_SphereOctantInvert

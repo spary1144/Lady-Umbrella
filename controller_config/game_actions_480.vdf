@@ -1,0 +1,102 @@
+"In Game Actions"
+{
+	"actions"
+	{
+		"InGameControls"
+		{
+			"title"					"#Set_Ingame"
+			"StickPadGyro"
+			{
+				"Move"
+				{
+					"title"			"#Action_Move"
+					"input_mode"	"joystick_move"
+				}
+				"Camera"
+				{
+					"title"			"#Action_Camera"
+					"input_mode"	"absolute_mouse"
+				}
+			}
+			"AnalogTrigger"
+			{
+				"Aim"			"#Action_Aim"
+				"Open_Shield"   "#Action_Open_Shield"
+			}
+			"Button"
+			{
+				"fire"				"#Action_Fire"
+				"Jump"				"#Action_Jump"
+				"pause_menu"		"#Action_Menu"
+				"shoot_gadget"      "#Action_Shoot_Gadget"
+				"first_gadget"      "#Action_First_Gadget"
+				"second_gadget"     "#Action_Second_Gadget"
+				"reload"            "#Action_Reload"
+				"interact"          "#Action_Interact"
+				"cover"             "#Action_Cover"
+			}
+		}
+		"MenuControls"
+		{
+			"title"		            "#Set_Menu"
+			"StickPadGyro"
+			{
+			    "menu_move"
+			    {
+			        "title"         "#Menu_Move"
+			        "input_mode"    "joystick_move"
+			    }
+			    "menu_move_mouse"
+                {
+                    "title"			"#Menu_Move_Mouse"
+                	"input_mode"	"absolute_mouse"
+                }
+			}
+			"AnalogTrigger"
+            {
+                "Menu_Interact_Left"    "#Menu_Interact_Left"
+                "Menu_interact_Right"   "#Menu_Interact_Right"
+            }
+			"Button"
+			{
+				"Menu_up"		    "#Menu_Up"
+				"Menu_Down"		    "#Menu_Down"
+				"Menu_Left"         "#Menu_Left"
+				"Menu_Right"        "#Menu_Right"
+				"Menu_Confirm"      "#Menu_Confirm"
+				"Menu_Cancel"	    "#Menu_Cancel"
+			}
+		}
+	}
+	"localization"
+	{
+		"english"
+		{
+			"Set_Ingame"			        "In-Game Controls"
+			"Set_Menu"				        "Menu Controls"
+			"Action_Move"			        "Movement"
+			"Action_Camera"			        "Camera"
+			"Action_Aim"		            "Aim"
+			"Action_Open_Shield"            "Shield"
+			"Action_Fire"			        "Fire Weapon/Melee"
+			"Action_Jump"			        "Jump"
+			"Action_Menu"			        "Pause Menu"
+			"Action_Shoot_Gadget"           "Shoot gadget"
+			"Action_First_Gadget"           "Select First Gadget"
+			"Action_Second_Gadget"          "Select Second Gadget"
+			"Action_Reload"	                "Reload"
+			"Action_Interact"               "Interact"
+			"Action_Cover"                  "Enter Cover/Exit Cover"
+			"Menu_Move"                     "Joystick Select"
+			"Menu_Move_Mouse"               "Mouse Select"
+			"Menu_Interact_Left"            "Interact Left"
+			"Menu_Interact_Right"           "Interact Right"
+			"Menu_Up"				        "Up"
+			"Menu_Down"				        "Down"
+			"Menu_Left"				        "Left"
+			"Menu_Right"			        "Right"
+			"Menu_Confirm"			        "Confirm"
+			"Menu_Cancel"			        "Cancel"
+		}
+	}
+}

@@ -1,0 +1,8 @@
+FileVersion:2
+Type:Static
+Guid:FD3DB349-4B2A-A37F-E391-0A8FCA165ED5
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Blueprints/LevelElements/Traversal/Swings/SwingBars/BP_SwingBar.BP_SwingBar
+/Game/Blueprints/LevelElements/Traversal/Swings/SwingBars/BP_SwingBar_OneWay.BP_SwingBar_OneWay
+/Game/Blueprints/LevelElements/Traversal/Swings/SwingBars/BP_SwingBar_Upwards.BP_SwingBar_Upwards

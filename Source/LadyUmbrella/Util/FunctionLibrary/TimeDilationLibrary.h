@@ -1,0 +1,17 @@
+﻿// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "Kismet/BlueprintFunctionLibrary.h"
+#include "TimeDilationLibrary.generated.h"
+
+UCLASS()
+class LADYUMBRELLA_API UTimeDilationLibrary : public UBlueprintFunctionLibrary
+{
+	GENERATED_BODY()
+	
+public:
+	UFUNCTION(BlueprintCallable, Category="Time")
+	static void ApplyTimeDilationCurveToWorld(APlayerController* PlayerController, const UCurveFloat* TimeDilationCurve);
+};
